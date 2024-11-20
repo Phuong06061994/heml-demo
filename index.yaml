@@ -9,6 +9,6 @@ entries:
     name: myapp
     type: application
     urls:
-    - https://github.com/Phuong06061994/helm/myapp-0.1.0.tgz
+    - https://phuong06061994.github.io/heml-demo/myapp-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-20T18:56:07.3673159+07:00"
